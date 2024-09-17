@@ -1,0 +1,14 @@
+{
+    "name": "article-reader-extractor",
+    "version": "1.0.0",
+    "main": "classer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "trier": "node JS/classer.js"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
